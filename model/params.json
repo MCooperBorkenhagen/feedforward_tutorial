@@ -1,0 +1,5 @@
+{
+    "hidden_size": 50,
+    "max_iter": 200,
+    "training_size": 2881
+}
